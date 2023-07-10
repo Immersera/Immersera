@@ -10,7 +10,6 @@ Immersera is focused on building web3, Metaverse and GameFi infrastructure, prov
 
 ImmerseEra has optimized the EVM protocol layer for the product features of Web3.0, Metaverse and GameFi industry, BRC-1233, BRC-1244, BRC-1255 protocols have revolutionized the traditional game developers to GameFi, BRC-1233, BRC-1244, and BRC-1255 protocols solve the biggest problem for traditional game developers to switch to GameFi, bringing trillions of traditional games to the blockchain and revolutionizing the Web3.Metaverse industry.
 
----------------------------------------------------------------------------------------------------------------------------
 
 #Immersera introduction
 ===
@@ -43,7 +42,7 @@ The introduction of this feature reduces the cost of use for players, making it 
 
 Authentication and Authorization: ImmerseEra uses blockchain user authentication and authorization mechanisms to enable players to be authenticated by wallet address and to controlpermissions and access in a smart contract. This protects players' personal data and game assets, and ensures a fair and secure gaming environment.
 
----------------------------------------------------------------------------------------------------------------------------
+
 
 #BRC-1233
 ===
@@ -60,3 +59,11 @@ It supports one-key listing transaction of game props, using BRC-1244 protocol, 
 #BRC-1255
 ===
 The BRC-1255 protocol provides protocol-level support for prop synthesis, upgrades, and inscriptions in games, eliminating the need for developers to build complex contracts at the contract development level, and requiring only a few hours to build a BRC-1255-compliant synthesizable, upgradable NFT. Without the BRC-1255 protocol, it would take weeks to complete the same work
+
+#HTTP API
+===
+You can find documentation regarding our HTTP interface
+
+License
+===
+The Immersera project is released under GNU General Public License v2.0. See LICENSE for full license conditions.
