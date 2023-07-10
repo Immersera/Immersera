@@ -1,7 +1,7 @@
 # Immersera
 
 #Brief description
-
+===
 Immersera is a Layer2 blockchain protocol based on Binance Smart Chain.Immersera offers higher throughput, faster finality and more efficient dispute resolution than previous Rollups.Immersera implements these features through several design principles: separating the order of transactions from deterministic execution; separating the order of transactions from deterministic execution; 
 
 Combining the existing BSC Layer1 network with extensions to enable cross-chain functionality; compiling separately for execution and proofs, so execution is fast and proofs are structured and machine-independent; and using the Supertrust protocol to settle transaction results to the underlying BSC chain.
@@ -13,10 +13,13 @@ ImmerseEra has optimized the EVM protocol layer for the product features of Web3
 ---------------------------------------------------------------------------------------------------------------------------
 
 #Immersera introduction
-
+===
 In previous work, we described Immersera, a system and protocol that extends the performance and scalability of smart contracts. This paper describes Immersera, a significantly improved design that provides advantages over the original, including higher efficiency, reduced latency, stronger activity guarantees, and better incentive compatibility.
 
-#Smart contract, integration of BRC-4337 protocol, development of BRC-1233, BRC-1244, BRC-1255 protocol
+#Smart contract 
+===
+
+integration of BRC-4337 protocol, development of BRC-1233, BRC-1244, BRC-1255 protocol
 
 #Integration of BRC-4337 protocol, abstract accounts
 
@@ -43,7 +46,7 @@ Authentication and Authorization: ImmerseEra uses blockchain user authentication
 ---------------------------------------------------------------------------------------------------------------------------
 
 #BRC-1233
-
+===
 #Support NFT game props to be chained with one click, using BRC-1233 protocol standard, hundreds of game NFT props in traditional games can be issued on the chain in a very simple way, traditional game developers do not even need to build smart contract development environment, no need to learn solidity development language, which greatly reduces the migration cost of traditional games to GameFi
 
 #Support one key to convert traditional game currency such as game gold and points into blockchain tokens. After conversion into blockchain tokens, the game can develop many advanced gameplay methods according to the technical characteristics of blockchain, and transform players into shareholders and promoters, so that the income of the game is associated with individuals, which will greatly reduce the promotion cost of the game and is a big trend in the future.
@@ -51,9 +54,9 @@ Authentication and Authorization: ImmerseEra uses blockchain user authentication
 In the future, the innovation of GameFi industry will surely make people feel the new production relationship of blockchain distribution for the first time, and the traditional corporate system of distribution will become history.
 
 #BRC-1244
-
+===
 It supports one-key listing transaction of game props, using BRC-1244 protocol, game players can conveniently put the game tools and characters on the NFT trading market with one key, so that game developers do not need to develop their own game stores, reducing the development cost of the game and players gain more autonomy, and the model of game trading platforms such as 5173 will be advanced in the blockchain field.
 
 #BRC-1255
-
+===
 The BRC-1255 protocol provides protocol-level support for prop synthesis, upgrades, and inscriptions in games, eliminating the need for developers to build complex contracts at the contract development level, and requiring only a few hours to build a BRC-1255-compliant synthesizable, upgradable NFT. Without the BRC-1255 protocol, it would take weeks to complete the same work
